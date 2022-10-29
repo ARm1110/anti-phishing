@@ -60,7 +60,7 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 
 ## API usage
 
--   **[checkphish.ai](https://checkphish.a)**
+-   **[checkphish.ai](https://checkphish.ai/docs/checkphish-api/)**
 
 ## License
 
