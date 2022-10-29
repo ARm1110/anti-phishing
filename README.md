@@ -32,6 +32,7 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 ## Starting ..
 
+
     first page web : http://your-domain/
     .env.example -> .env
 
@@ -52,8 +53,9 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
     php artisan serve
     npm run dev
     ## Contributing
-
-
+### Admin 
+email : admin@example.com
+password : admin
 
 ## API usage
 
