@@ -33,23 +33,28 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
-### Premium Partners
+### Starting ..
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
+    first page web : http://your-domain/
+    .env.example -> .env
+    
+    CACHE_DRIVER:database
+    FILESYSTEM_DISK:local
+    DB_CONNECTION:mysql
+    DB_HOST:your_domain
+    DB_PORT:your_db_port
+    DB_DATABASE:Anti_Phishing
+    DB_USERNAME=your_username
+    DB_PASSWORD=your_password
+    composer install
+    composer dump-autoload
+    php artisan key:generate
+    php artisan migrate:install
+    php artisan migrate
+    php artisan db:seed
+    php artisan serve
+    npm run dev
+    ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
